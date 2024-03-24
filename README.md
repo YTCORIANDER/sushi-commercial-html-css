@@ -5,11 +5,10 @@ Welcome to Sushi Delights! 🍣 This repository celebrates the diverse and exqui
 Sushi is a traditional Japanese dish characterized by seasoned rice combined with various ingredients like raw fish, seafood, vegetables, and nori (seaweed). It has evolved into a global culinary phenomenon, beloved for its freshness, flavors, and aesthetic presentation.
 
 ## Features
-Types of Sushi: Explore different types of sushi, including nigiri, sashimi, maki, and more.
-Sushi Making Techniques: Learn about the art of sushi-making, from rice preparation to fish slicing.
-Sushi Culture: Discover the cultural significance of sushi in Japanese cuisine and society.
-Sushi Recipes: Find delicious sushi recipes to try at home, from classic rolls to innovative creations.
-Getting Started
+* Types of Sushi: Explore different types of sushi, including nigiri, sashimi, maki, and more.
+* Sushi Making Techniques: Learn about the art of sushi-making, from rice preparation to fish slicing.
+* Sushi Culture: Discover the cultural significance of sushi in Japanese cuisine and society.
+* Sushi Recipes: Find delicious sushi recipes to try at home, from classic rolls to innovative creations.
 
 ## Getting Started
 Clone this repository: git clone https://github.com/YTCORIANDER/sushi-commercial-html-css.git
